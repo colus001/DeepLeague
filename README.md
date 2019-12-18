@@ -43,7 +43,7 @@ $ conda install python.app # this install python as a framework for mat plot lib
 $ pip install opencv-python youtube_dl
 $ conda install -c menpo ffmpeg
 $ pip install numpy h5py pillow matplotlib
-$ pip install tensorflow
+$ pip install tensorflow==1.15.0
 $ pip install keras
 
 # get the supporting files for the neural net.
